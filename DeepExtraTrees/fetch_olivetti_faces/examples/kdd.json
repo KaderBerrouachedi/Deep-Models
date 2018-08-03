@@ -1,0 +1,15 @@
+{
+"cascade": {
+    "random_state": 0,
+    "max_layers": 1,
+    "early_stopping_rounds":3,
+    "n_classes": 2,
+    "estimators": [
+                {"n_folds":10,"type":"ExtraTreesClassifier","n_estimators":100,"max_depth":null,"n_jobs":-1}
+		
+		 
+    ]
+}
+}
+
+

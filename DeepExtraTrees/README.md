@@ -8,7 +8,7 @@ This package is provided "AS IS" and free for academic usage. You can run it at 
 Requirements: This package is developed with Python 2.7, please make sure all the dependencies are installed,
 which is specified in requirements.txt 
 
-ATTN: This package was developed and maintained by Jaziri Rakia , Gilles Bernard, Berrouachedi Abdelkader .For any problem concerning the codes, please feel free to contact Mr.Berrouachedi.（a.berrouachedi@yahoo.fr , <aberrouachedi@ai.univ-paris8.fr> ).
+ATTN: This package was developed and maintained by Jaziri Rakia , Gilles Bernard, Berrouachedi Abdelkader .For any problem concerning the codes, please feel free to contact Mr.Berrouachedi.（<aberrouachedi@ai.univ-paris8.fr> ).
 
 
 Supported Based Classifier

@@ -1,12 +1,12 @@
 # Deep-Models
 
-* Deep Parallel ExtraTrees 
+* Deep Cascade ExtraTrees 
 
 * Deep ExtraTrees
 
 ========
 
-This is the official clone for the implementation of Deep Parallel ExtraTrees & Deep ExtraTrees.
+This is the official clone for the implementation of Deep Cascade ExtraTrees & Deep ExtraTrees.
 
 This package is provided "AS IS" and free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Rakia JAZIRI <rakia.jaziri@univ-paris8.fr>
 

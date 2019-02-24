@@ -1,6 +1,6 @@
-Deep Parallel ExtraTrees Is Here!
+Deep Cascade ExtraTrees Is Here!
 ========
-This is the official clone for the implementation of Deep Parallel ExtraTrees .
+This is the official clone for the implementation of Deep Cascade ExtraTrees .
 
 This package is provided "AS IS" and free for academic usage. You can run it at your own risk. For other purposes, please contact Prof. Rakia JAZIRI <rakia.jaziri@univ-paris8.fr>
 
